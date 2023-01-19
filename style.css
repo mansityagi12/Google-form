@@ -1,0 +1,20 @@
+* body {
+    background: rgb(239, 175, 196);
+}
+
+.box-sizing:border-box .container_input {
+    display: flex;
+    width: 100px;
+    margin-bottom: 16px;
+}
+
+.icon {
+    width: 30px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+.input_field {
+    width: 30%;
+    padding: 10px;
+}
